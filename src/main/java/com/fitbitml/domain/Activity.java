@@ -59,6 +59,9 @@ public class Activity {
         this.activityCalories = activityCalories;
     }
 
+    public Activity() {
+    }
+
     public int getId() {
         return id;
     }

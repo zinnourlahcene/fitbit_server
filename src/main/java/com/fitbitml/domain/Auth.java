@@ -62,6 +62,9 @@ public class Auth {
         this.refreshToken = refreshToken;
     }
 
+    public Auth() {
+    }
+
     @Override
     public String toString() {
         return "Auth{" +

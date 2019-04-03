@@ -51,6 +51,9 @@ public class User {
         this.birthday = birthday;
     }
 
+    public User() {
+    }
+
     public int getId() {
         return id;
     }
