@@ -1,0 +1,400 @@
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-12T090949.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T092136.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T020542.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=aaaa&lastName=bbbb&dateStart=2019-02-02&dateEnd=2019-03-03&birthday=1992-02-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T012758.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T113425.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T025745.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user/all
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T025222.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T014510.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T014416.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T013148.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T012449.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T011446.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T010135.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T125938.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T124745.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T124409.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T124204.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T124108.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T123935.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T123700.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T123236.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T122925.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T122733.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T122558.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T122425.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T121502.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T121149.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T121037.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T120923.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T120751.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T120316.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T120209.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-11T120113.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T115619.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T115157.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T114942.500.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T114844.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T114624.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T111123.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T104907.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T103941.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T103814.200.json
+
+###
+
+POST http://localhost:8080/fitbit/api/user?firstName=zinnour&lastName=lahcene&dateStart=2019-02-11&dateEnd=2019-03-11
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T103628.500.json
+
+###
+
+GET http://localhost:8080/fitbit/api/activity
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T094019.200.txt
+
+###
+
+GET http://localhost:8080/fitbit/api/activity
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T093825.200.txt
+
+###
+
+GET http://localhost:8080/fitbit/api/auth/accessToken
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T082240.200.json
+
+###
+
+GET http://localhost:8080/fitbit/api/auth/accessToken
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T082109.500.json
+
+###
+
+GET http://localhost:8080/fitbit/api/auth/accessToken
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T081516.500.json
+
+###
+
+GET http://localhost:8080/fitbit/api/auth/accessToken
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T080904.500.json
+
+###
+
+GET http://localhost:8080/fitbit/api/auth/accessToken
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-03-10T080552.500.json
+
+###
+
