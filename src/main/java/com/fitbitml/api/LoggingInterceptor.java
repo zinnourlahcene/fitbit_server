@@ -1,6 +1,5 @@
 package com.fitbitml.api;
 
-import jdk.management.resource.internal.inst.InitInstrumentation;
 import okhttp3.Interceptor;
 import okhttp3.Request;
 import okhttp3.Response;
