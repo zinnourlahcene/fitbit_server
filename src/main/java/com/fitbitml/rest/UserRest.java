@@ -35,9 +35,9 @@ public class UserRest {
         this.utils = utils;
     }
 
-    @CrossOrigin(exposedHeaders="Access-Control-Allow-Origin")
+    //@CrossOrigin(exposedHeaders="Access-Control-Allow-Origin")
     @ResponseBody
-    @RequestMapping(value = "/all", method = RequestMethod.GET)
+    @RequestMapping(value = "/all", method = RequestMethod.GET, produces = {"application/json"})
     public List<User> list() {
         return (List<User>) userService.findAll();
     }
