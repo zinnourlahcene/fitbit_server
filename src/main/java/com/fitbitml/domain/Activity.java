@@ -58,4 +58,84 @@ public class Activity {
         this.minutesVeryActive = minutesVeryActive;
         this.activityCalories = activityCalories;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public Date getDateTime() {
+        return dateTime;
+    }
+
+    public void setDateTime(Date dateTime) {
+        this.dateTime = dateTime;
+    }
+
+    public int getCalories() {
+        return calories;
+    }
+
+    public void setCalories(int calories) {
+        this.calories = calories;
+    }
+
+    public int getSteps() {
+        return steps;
+    }
+
+    public void setSteps(int steps) {
+        this.steps = steps;
+    }
+
+    public double getDistance() {
+        return distance;
+    }
+
+    public void setDistance(double distance) {
+        this.distance = distance;
+    }
+
+    public int getMinutesSedentary() {
+        return minutesSedentary;
+    }
+
+    public void setMinutesSedentary(int minutesSedentary) {
+        this.minutesSedentary = minutesSedentary;
+    }
+
+    public int getMinutesLightlyActive() {
+        return minutesLightlyActive;
+    }
+
+    public void setMinutesLightlyActive(int minutesLightlyActive) {
+        this.minutesLightlyActive = minutesLightlyActive;
+    }
+
+    public int getMinutesFairlyActive() {
+        return minutesFairlyActive;
+    }
+
+    public void setMinutesFairlyActive(int minutesFairlyActive) {
+        this.minutesFairlyActive = minutesFairlyActive;
+    }
+
+    public int getMinutesVeryActive() {
+        return minutesVeryActive;
+    }
+
+    public void setMinutesVeryActive(int minutesVeryActive) {
+        this.minutesVeryActive = minutesVeryActive;
+    }
+
+    public int getActivityCalories() {
+        return activityCalories;
+    }
+
+    public void setActivityCalories(int activityCalories) {
+        this.activityCalories = activityCalories;
+    }
 }
