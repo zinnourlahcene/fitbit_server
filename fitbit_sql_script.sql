@@ -60,3 +60,4 @@ alter table trackeractivity owner to postgres;
 create unique index trackeractivity_id_uindex
   on trackeractivity (id);
 
+/*heroku pg:killall -a fitbitml

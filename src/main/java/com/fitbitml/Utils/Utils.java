@@ -32,7 +32,7 @@ public class Utils {
         System.out.println(AuthorizationCodeBase64);
 
         RequestBody body = RequestBody.create(MediaType.get("application/x-www-form-urlencoded; charset=utf-8"),
-                "client_id=22DBSJ&grant_type=authorization_code&redirect_uri=http%3A%2F%2Flocalhost%3A4200%2Fauth&code="+authorizationCode);
+                "client_id=22DBSJ&grant_type=authorization_code&redirect_uri=https%3A%2F%2Ffitbit-41668.firebaseapp.com%2Fauth&code="+authorizationCode);
         Request request = new Request.Builder()
                 .url(url)
                 .post(body)
