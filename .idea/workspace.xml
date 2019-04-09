@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edfd68f7-7bce-4e65-8a57-90feaa8396ca" name="Default Changelist" comment="" />
+    <list default="true" id="edfd68f7-7bce-4e65-8a57-90feaa8396ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -145,11 +147,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/rest/AuthRest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
+            <state relative-caret-position="663">
               <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1169">
+              <caret line="38" column="126" selection-start-line="38" selection-start-column="126" selection-end-line="38" selection-end-column="126" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -213,7 +227,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/dao/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/service/user/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/service/user/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-dev.properties" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5c8daf10-9ede-47a2-bddd-3071333871eb/console_1.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
@@ -233,6 +246,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5c8daf10-9ede-47a2-bddd-3071333871eb/console.sql" />
         <option value="$PROJECT_DIR$/fitbit_sql_script.sql" />
         <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/rest/AuthRest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java" />
       </list>
     </option>
   </component>
@@ -436,6 +450,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="fitbitml" type="462c0819:PsiDirectoryNode" />
               <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fitbit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fitbit" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="fitbitml" type="462c0819:PsiDirectoryNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="fitbit" type="b2602c69:ProjectViewProjectNode" />
@@ -851,12 +874,12 @@
       <workItem from="1554335617725" duration="4514000" />
       <workItem from="1554783201793" duration="1032000" />
       <workItem from="1554818256046" duration="8511000" />
-      <workItem from="1554828170340" duration="666000" />
+      <workItem from="1554828170340" duration="992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="284726000" />
+    <option name="totallyTimeSpent" value="285052000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -869,8 +892,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.492562" visible="true" weight="0.20757575" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.492562" visible="true" weight="0.20757575" />
       <window_info id="Structure" order="1" sideWeight="0.507438" side_tool="true" weight="0.19318181" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -888,7 +912,7 @@
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49924472" weight="0.3289256" />
       <window_info anchor="bottom" id="Build" order="8" weight="0.32781458" />
       <window_info anchor="bottom" id="Spring" order="9" weight="0.3289256" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29304636" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29304636" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5007576" side_tool="true" weight="0.4842975" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32781458" />
@@ -1014,16 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/Utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1172,16 +1186,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
-          <caret line="67" column="34" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/fitbitml-1/angular.json" />
     <entry file="das://87efc3a1-5d73-417f-8e6c-8b9165520e61/database/fitbitml/schema/public/table/users">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -1293,8 +1297,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/rest/AuthRest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="663">
           <caret line="62" column="43" selection-start-line="62" selection-start-column="43" selection-end-line="62" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/Utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="34" column="126" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="126" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fitbitml/api/Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1169">
+          <caret line="38" column="126" selection-start-line="38" selection-start-column="126" selection-end-line="38" selection-end-column="126" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
