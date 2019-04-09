@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="edfd68f7-7bce-4e65-8a57-90feaa8396ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5c8daf10-9ede-47a2-bddd-3071333871eb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5c8daf10-9ede-47a2-bddd-3071333871eb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5c8daf10-9ede-47a2-bddd-3071333871eb/storage_v2/_src_/database/d5889eikneobj4.E9UOOQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/5c8daf10-9ede-47a2-bddd-3071333871eb/storage_v2/_src_/database/d5889eikneobj4.E9UOOQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/87efc3a1-5d73-417f-8e6c-8b9165520e61.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/87efc3a1-5d73-417f-8e6c-8b9165520e61.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/87efc3a1-5d73-417f-8e6c-8b9165520e61/storage_v2/_src_/database/fitbitml.-9Gu4Q/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/87efc3a1-5d73-417f-8e6c-8b9165520e61/storage_v2/_src_/database/fitbitml.-9Gu4Q/schema/public.abK9xQ.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.example.fitbit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.example.fitbit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.example.fitbit.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.example.fitbit.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fitbitml/api/LoggingInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fitbitml/api/LoggingInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/Activity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/Activity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/Auth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/Auth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fitbitml/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/fitbitml/rest/UserRest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/fitbitml/rest/UserRest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/Auth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/Auth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fitbitml/domain/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="edfd68f7-7bce-4e65-8a57-90feaa8396ca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -527,7 +499,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554819743771" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554819800356" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -915,12 +887,12 @@
       <workItem from="1554333288347" duration="599000" />
       <workItem from="1554335617725" duration="4514000" />
       <workItem from="1554783201793" duration="1032000" />
-      <workItem from="1554818256046" duration="1209000" />
+      <workItem from="1554818256046" duration="1486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276758000" />
+    <option name="totallyTimeSpent" value="277035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
