@@ -8,12 +8,12 @@
       <ObjectId>16384</ObjectId>
       <StateNumber>571</StateNumber>
       <Owner>postgres</Owner>
-      <IntrospectionStateNumber>809</IntrospectionStateNumber>
+      <IntrospectionStateNumber>887</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
-      <Relations>sequence|table|24630|24632|1
+      <Relations>sequence|table|16391|16388|1
 sequence|table|16403|16385|1
-sequence|table|16391|16388|1
+sequence|table|24630|24632|1
 </Relations>
     </database>
     <database id="3" parent="1" name="postgres">
@@ -106,7 +106,7 @@ sequence|table|16391|16388|1
       <StateNumber>359</StateNumber>
       <Owner>postgres</Owner>
       <IntrospectionTimestamp>2019-02-25.21:38:46.529</IntrospectionTimestamp>
-      <IntrospectionStateNumber>810</IntrospectionStateNumber>
+      <IntrospectionStateNumber>888</IntrospectionStateNumber>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>

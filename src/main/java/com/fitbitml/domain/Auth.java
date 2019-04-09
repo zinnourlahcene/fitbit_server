@@ -11,7 +11,6 @@ import java.sql.Time;
 
 @Getter
 @Setter
-@NoArgsConstructor
 @EqualsAndHashCode
 @Entity
 @Table(name = "Auth", schema = "public")

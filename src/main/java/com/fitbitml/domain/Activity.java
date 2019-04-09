@@ -4,11 +4,9 @@ import lombok.*;
 
 import javax.persistence.*;
 import java.sql.Date;
-import java.sql.Time;
 
 @Getter
 @Setter
-@NoArgsConstructor
 @EqualsAndHashCode
 @Entity
 @ToString
