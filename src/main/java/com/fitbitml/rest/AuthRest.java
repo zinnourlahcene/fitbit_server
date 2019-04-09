@@ -60,7 +60,7 @@ public class AuthRest {
     @CrossOrigin(exposedHeaders="Access-Control-Allow-Origin")
     @RequestMapping(value = "/accessToken", method = RequestMethod.GET, produces = "application/json")
     public String getAccessToken() throws IOException {
-        return authService.getAccessToken();
+        return JSONObject.quote(authService.getAccessToken());
     }
 
     @CrossOrigin(exposedHeaders="Access-Control-Allow-Origin")
